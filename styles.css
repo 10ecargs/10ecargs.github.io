@@ -1,0 +1,15 @@
+.welcome {
+  background-color:#b0e0e6;
+}
+.aboutme {
+  padding:25px;
+  background-color:#b0e0e6;
+}
+.likes {
+  background-color:#b0e0e6;
+}
+.funfact {
+  padding:25px;
+  border-style: outset;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/78/9f/f0/789ff0ef265bf4cb0d5533396dad16fb.jpg")
+}
