@@ -1,16 +1,29 @@
 .welcome {
+  padding:25px;25px;25px;25px;
   background-color:#b0e0e6;
 }
 .aboutme {
-  padding:25px;
+  padding:25px;25px;25px;25px;
   background-color:#b0e0e6;
+  columns: 100px 2;
+  height: 400px;
 }
 .likes {
-   padding:25px;
+  columns: 100px 2;
+  padding:25px;
   background-color:#b0e0e6;
+  
 }
 .funfact {
-  padding:25px;
-  border-style: outset;
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/78/9f/f0/789ff0ef265bf4cb0d5533396dad16fb.jpg")
+  margin: 0 auto;
+  text-align: center;
+  padding: 25px;
+  border-style: outset; 5px;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/78/9f/f0/789ff0ef265bf4cb0d5533396dad16fb.jpg");
+  background-position: 100px 5px;
 }
+.projectimgs{
+  columns: 100px 2;
+  padding: 5px;
+}
+
