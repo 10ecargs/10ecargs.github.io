@@ -4,6 +4,8 @@
 }
 .welcomeimage {
   float: right; 
+  width: 10%;
+  height: 10%;
 }
 .welcomeBio {
   font-size: 115%;
