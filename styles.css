@@ -2,6 +2,9 @@
   padding:25px;
   background-color:#b0e0e6;
 }
+.welcomeimage {
+  float: right; 
+}
 .welcomeBio {
   font-size: 115%;
   border-bottom-width: 1px;
